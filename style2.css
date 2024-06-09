@@ -1,2 +1,8 @@
-/* GENERAL */
-
+@media screen and (max-width: 1200px){
+    #desktop-nav {
+        display: none;
+    }
+    #phone-nav {
+        display: flex;
+    }
+}
